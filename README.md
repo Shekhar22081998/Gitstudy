@@ -22,7 +22,9 @@ alert(s);
 ```
  
 image:
-![Uploading download (1).jfif…]()
+---
+![different-anguages](https://user-images.githubusercontent.com/128279240/233010434-820d792a-563d-483a-8c0b-d5c647085921.png)
+
 
 
 
