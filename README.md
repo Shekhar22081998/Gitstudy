@@ -15,7 +15,13 @@ www.google.com We can learn various languages
 | CSS          | DESIGNING     |   
 | JAVASCRIPT   | LIBRARIES     |  
 
-
+---
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+image:
 
 
 
