@@ -1,5 +1,5 @@
 # CS Languages
-www.google.com We can learn various languages
+www.google.com/cslanguages We can learn various languages
 ---
 ## Installation
 + HTML
