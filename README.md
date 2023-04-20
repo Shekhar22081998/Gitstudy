@@ -17,7 +17,7 @@ www.google.com/cslanguages We can learn various languages
 
 ---
 ```javascript
-var s = "JavaScript syntax highlighting";
+var s = "You should have to learn more languages";
 alert(s);
 ```
  
